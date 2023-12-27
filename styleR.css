@@ -1,0 +1,16 @@
+#box2{
+    background-image: url(Background\ 3.jpg); /* ADDING IMAGE ON BACKGROUND */
+    margin: 0px;       /*space b/w box and web page (top) */
+    padding: 43px;     /*space b/w content and box border */
+    font-size: 23px;    /*TEXT SIZE */
+    font-family: cursive; /*STYLING TEXT */
+    color: white;
+}
+#box3 {
+    background-image: url(Background\ 3.jpg);   /* ADDING IMAGE ON BACKGROUND */
+    margin: 0px;     /*space b/w box and web page (top) */
+    padding: 43px;    /*space b/w content and box border */
+    font-size: 23px;   /*TEXT SIZE */
+    font-family: cursive;   /*STYLING TEXT */
+    color: white;
+}

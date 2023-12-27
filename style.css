@@ -1,0 +1,68 @@
+
+
+/* style top navigation bar */
+
+* {
+    box-sizing: border-box;
+}
+.topnav{
+    overflow: hidden;
+    background-color: whitesmoke;
+}
+ 
+/* style top navigation links */
+.topnav a{
+    float: right;
+    display: grid;
+    color: black;
+    text-align: center;
+    padding: 23px 12px;
+    text-decoration: none;
+    font-family: fantasy;
+ }
+
+ 
+
+ *{
+    box-sizing: border-box;
+ }
+  .column {
+    float: left;
+    width: 50%;
+    padding: 3px;
+  }
+   /* SUBSCRIPTION FORM */
+ #subscription-form{
+     border: solid black;
+     background-color: black;
+     margin: 2px;
+     padding: 5px;
+     font-family: cursive;
+     font-size: 45px;
+     color: white;
+ }
+ .box8{
+    border: solid black;
+    margin: 1%;
+    padding: 12%;
+    font-size: 23px;
+    font-family: fantasy;
+ }
+ * {
+    box-sizing: border-box;
+}
+.downnav{
+    overflow: hidden;
+    background-color: whitesmoke;
+}
+ 
+/* style top navigation links */
+.downnav a{
+    float: right;
+    display: grid;
+    color: black;
+    text-align: center;
+    padding: 23px 12px;
+    text-decoration: none;
+    font-family: fantasy;
+ }

@@ -1,0 +1,12 @@
+/* LINKED INDEX3 BODY (HELP BODY ) */
+/*BOX STYLING */
+#box8{
+    border: solid white;  
+    padding: 12px;          /*SPACE B/W CONTENT AND BOX BORDER */
+    margin: 2px;             /*SPACE B/W BOX AND WEB PAGE TOP */
+    font-family: cursive;    /*TEXT STYLING */
+    font-size: 18px;        /*TEXT SIZE    */
+    color: white;
+
+}
+
